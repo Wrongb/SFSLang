@@ -1,14 +1,14 @@
 # SFSLang
 **My small project on SFS - Spaceflight Simulator**
 
-- [Tiếng Việt](#-tiếng-việt)
-- [English](#-english)
+🌐 **Language / Ngôn ngữ:**  
+[Tiếng Việt (VIE)](#-tiếng-việt-vie) | [English (ENG)](#-english-eng)
 
 ---
 
-# 🇻🇳 Tiếng Việt
+## 🇻🇳 Tiếng Việt (VIE)
 
-## [28/5/2026] Một số vấn đề nhỏ
+### [28/5/2026] Một số vấn đề nhỏ
 
 1. Cấu trúc file ngôn ngữ của mình được dựa trên file `Example.txt` trên iOS. Vì vậy nếu bạn cài file ngôn ngữ này trên Android, có thể game sẽ hiện thông báo như:
    - `Your custom translation is out of date (English will be used for missing translations)`
@@ -23,9 +23,9 @@
 
 ---
 
-# English
+## 🇬🇧 English (ENG)
 
-## [28/5/2026] Some Important Notes
+### [28/5/2026] Some Important Notes
 
 1. The structure of this language file is based on the `Example.txt` file from iOS. Because of that, if you install this translation on Android, the game may display messages such as:
    - `Your custom translation is out of date (English will be used for missing translations)`
