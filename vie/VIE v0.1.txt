@@ -1,6 +1,3 @@
-# VIE SFS
-# Translation: Pongb
-# Ver: v0.2
 [None]
     None=Không có
     Font=normal
@@ -16,24 +13,24 @@
     Open_Cheats_Button=Gian lận
     Help=Trợ giúp
 
-    Build_Rocket=Chế tạo tên lửa
-    Resume_Game=Tiếp tục chơi
-    Return_To_Main_Menu=Menu chính
-    Exit_To_Main_Menu=Về menu chính
+    Build_Rocket=Chế tạo Tên lửa
+    Resume_Game=Tiếp tục Chơi
+    Return_To_Main_Menu=Menu Chính
+    Exit_To_Main_Menu=Thoát ra Menu Chính
 
 [Main Menu]
     Play=Chơi
 
-    Video_Tutorials_OpenButton=Video hướng dẫn
-    Video_Orbit=Hướng dẫn quỹ đạo
+    Video_Tutorials_OpenButton=Video Hướng dẫn
+    Video_Orbit=Hướng dẫn Quỹ đạo
     Video_Moon=Hướng dẫn lên Mặt Trăng
-    Video_Dock=Hướng dẫn ghép nối
+    Video_Dock=Hướng dẫn Ghép nối
 
-    Development_Blog=Nhật ký phát triển
+    Development_Blog=Nhật ký Phát triển
 
-    Mod_Loader_OpenButton=Trình quản lý mod
-    Download_Mods=Tải mod
-    Open_Mods_Folder=Mở thư mục mod
+    Mod_Loader_OpenButton=Trình quản lý Mod
+    Download_Mods=Tải Mod
+    Open_Mods_Folder=Mở Thư mục Mod
 
     Community_OpenButton=Cộng đồng
     Community_Youtube=Youtube
@@ -41,7 +38,7 @@
     Community_Reddit=Reddit
     Community_Forums=Diễn đàn
 
-    Credits_OpenButton=Danh sách đội ngũ
+    Credits_OpenButton=Danh sách Đội ngũ
 
     Credits_Text=<Size=70> Štefo Mai Morojna </size>
     Credits_Text=<Size=55> Thiết kế - Lập trình - Họa sĩ </size>
@@ -69,15 +66,12 @@
     Credits_Text=
     Credits_Text=<Size=70> Ashton Mills </size>
     Credits_Text=<size=55> Nhà soạn nhạc </size>
-    Credits_Text=
-    Credits_Text=<Size=70> Pongb </size>
-    Credits_Text=<size=55> Biên dịch viên bản Việt hóa </size>
 
     First_Time_Playing_Question=Lần đầu bạn chơi
     First_Time_Playing_Question=Spaceflight Simulator?
 
-    First_Time_Playing_Yes=Lần đầu chơi
-    First_Time_Playing_No=Đã từng chơi
+    First_Time_Playing_Yes=Lần Đầu Chơi
+    First_Time_Playing_No=Đã Từng Chơi
 
     Update_Available=Có bản cập nhật mới!
     Update_Available=
@@ -86,7 +80,7 @@
 
     Update_Confirm=Cập nhật
 
-    Rate_Title=Bạn muốn đánh giá game không?
+    Rate_Title=Bạn có muốn đánh giá game không?
     Rate_Title=
     Rate_Title=Chúng mình rất quan tâm đến chất lượng trò chơi, phản hồi của bạn sẽ giúp cải thiện game tốt hơn
     Rate_Title=
@@ -99,11 +93,11 @@
     Follow_Development=Theo dõi tiến độ phát triển
 
 [Worlds Menu]
-    Create_New_World_Button=Tạo thế giới mới
+    Create_New_World_Button=Tạo Thế giới Mới
     World_Delete=Xóa thế giới này?
 
 # Create menu
-    Create_World_Title=Tên thế giới
+    Create_World_Title=Tên Thế giới
     Default_World_Name=Thế giới của tôi
     Select_Solar_System=Chọn hệ mặt trời của thế giới
 
@@ -112,7 +106,7 @@
     Select_Solar_System__NotFound=
     Select_Solar_System__NotFound=Vui lòng chọn một hệ mặt trời khác
 
-    Default_Solar_System=Hệ mặt trời (Mặc định)
+    Default_Solar_System=Hệ Mặt Trời (Mặc định)
     Custom_Solar_System=%name% (Tùy chỉnh)
 
 # World info
@@ -121,11 +115,11 @@
     Mode_Challenge=Thử thách
     Mode_Career=Sự nghiệp
 
-    Allow_Cheats_Name=Cho phép gian lận: %value%
-    Allow_Cheats_Label=Cho phép gian lận
+    Allow_Cheats_Name=Cho phép Gian lận: %value%
+    Allow_Cheats_Label=Cho phép Gian lận
 
-    Allow_Quicksaves_Name=Cho phép lưu nhanh: %value%
-    Allow_Quicksaves_Label=Cho phép lưu nhanh
+    Allow_Quicksaves_Name=Cho phép Lưu nhanh: %value%
+    Allow_Quicksaves_Label=Cho phép Lưu nhanh
 
     World_Difficulty_Name=Độ khó: %value%
     Difficulty_Easy=Dễ
@@ -135,16 +129,16 @@
     Difficulty_Extreme=Cực hạn
     Difficulty_Realistic=Chân thực
 
-    World_SolarSystem_Name=Hệ mặt trời: %value%
+    World_SolarSystem_Name=Hệ Mặt Trời: %value%
 
     Last_Played=Chơi lần cuối: %value% trước
     Just_Played=Chơi lần cuối: Vừa xong
     Time_Played=Thời gian chơi: %value%
 
 [World Create Menu]
-    World_Create_Title=Tạo thế giới
-    World_Name_Label=Tên thế giới:
-    Solar_System_Label=Hệ mặt trời:
+    World_Create_Title=Tạo Thế giới
+    World_Name_Label=Tên Thế giới:
+    Solar_System_Label=Hệ Mặt Trời:
     Mode_Label=Chế độ:
     Difficulty_Label=Độ khó:
 
@@ -163,15 +157,15 @@
 # Blueprint stuff
     Blueprints_Menu_Title=Bản thiết kế
     Unnamed_Blueprint=Bản thiết kế chưa đặt tên
-    Save_Blueprint=Lưu bản thiết kế
-    Load_Blueprint=Tải bản thiết kế
-    Cannot_Save_Empty_Build=Không thể lưu bản thiết kế trống
+    Save_Blueprint=Lưu Bản thiết kế
+    Load_Blueprint=Tải Bản thiết kế
+    Cannot_Save_Empty_Build=Không thể lưu một bản thiết kế trống
 
 # Quicksave stuff
     Quicksaves_Menu_Title=Điểm lưu nhanh
     Unnamed_Quicksave=Điểm lưu nhanh chưa đặt tên
-    Create_Quicksave=Tạo lưu nhanh
-    Load_Quicksave=Tải điểm lưu nhanh
+    Create_Quicksave=Tạo Lưu nhanh
+    Load_Quicksave=Tải Điểm lưu nhanh
 
 # Save and load menus
     Save=Lưu
@@ -204,39 +198,39 @@
     Open_Shop_Button=Cửa hàng
     Open_Shop_Menu_2=Mở cửa hàng
 
-    Expansions_List_Title=Bản mở rộng & gói vật phẩm
+    Expansions_List_Title=Bản mở rộng & Gói vật phẩm
     Bundles_List_Title=Gói combo
 
     View_Details=Xem chi tiết
 
-    Parts_Expansion=Mở rộng linh kiện
+    Parts_Expansion=Mở rộng Linh kiện
     Expand_View_Button=Mở rộng góc nhìn
     Redstone_Atlas_Pack=Gói Redstone Atlas
-    Skins_Expansion=Mở rộng ngoại trang
-    Gas_Giants_Expansion=Bản mở rộng hành tinh khí khổng lồ
-    Ice_Giants_Expansion=Bản mở rộng hành tinh băng khổng lồ
-    Cheats_Expansion=Tính năng gian lận
-    Infinite_Area_Expansion=Khu vực xây dựng vô hạn
-    Builder_Bundle=Gói kỹ sư chế tạo
-    Sandbox_Bundle=Gói sáng tạo
-    Full_Bundle=Gói đầy đủ
-    Upgrade_To_Full_Bundle=Nâng cấp lên gói đầy đủ
+    Skins_Expansion=Mở rộng Ngoại trang
+    Gas_Giants_Expansion=Bản mở rộng Hành tinh Khí khổng lồ
+    Ice_Giants_Expansion=Bản mở rộng Hành tinh Băng khổng lồ
+    Cheats_Expansion=Tính năng Gian lận
+    Infinite_Area_Expansion=Khu vực Xây dựng Vô hạn
+    Builder_Bundle=Gói Kỹ sư Chế tạo
+    Sandbox_Bundle=Gói Sáng tạo
+    Full_Bundle=Gói Đầy đủ (Full Bundle)
+    Upgrade_To_Full_Bundle=Nâng cấp lên Gói Đầy đủ
     Most_Popular_Purchase=Phổ biến nhất!
     No_Connection=[Mất kết nối]
 
-    Mac_Full_Version=Phiên bản đầy đủ
-    View_Part_Expansion=Xem bản mở rộng
+    Mac_Full_Version=Phiên bản Đầy đủ
+    View_Part_Expansion=Xem Bản mở rộng
 
     Not_All_Parts_Are_Owned_Full_Version=Bạn không sở hữu tất cả linh kiện
     Not_All_Parts_Are_Owned_Full_Version=Đã vô hiệu hóa linh kiện chưa sở hữu
     Not_All_Parts_Are_Owned_Full_Version=
     Not_All_Parts_Are_Owned_Full_Version=Xem bản mở rộng linh kiện?
 
-    More_Parts=Xem bản mở rộng linh kiện
-    More_Skins=Xem bản mở rộng ngoại trang
-    Cannot_Use_Cheats_In_Career=Chỉ có thể gian lận trong thế giới thuộc chế độ sáng tạo
-    Get_Infinite_Build_Area_Button=Mua khu vực xây dựng vô hạn
-    Get_Cheats_Expansion_Button=Mua bản mở rộng gian lận
+    More_Parts=Xem Bản mở rộng Linh kiện
+    More_Skins=Xem Bản mở rộng Ngoại trang
+    Cannot_Use_Cheats_In_Career=Chỉ có thể gian lận trong thế giới thuộc chế độ Sáng tạo
+    Get_Infinite_Build_Area_Button=Mua Khu vực Xây dựng Vô hạn
+    Get_Cheats_Expansion_Button=Mua Bản mở rộng Gian lận
 
     Buy_Product=Mua %product% với %price%
 
@@ -246,7 +240,7 @@
     Time_Upgrade_Text=Nâng cấp lên %product_name% giảm -%sale_percent%
     Time_Upgrade_Text=Thời gian còn lại: %time_left%
 
-    Purchase_Thanks_Msg=Đã mua: %product%
+    Purchase_Thanks_Msg=Đã mua thành công: %product%
     Purchase_Thanks_Msg=
     Purchase_Thanks_Msg=Cảm ơn bạn đã ủng hộ chúng mình!
     Purchase_Thanks_Msg=Giờ thì hãy lên đường khám phá các vì sao thôi nào!
@@ -291,7 +285,7 @@
     SignInForPurchaseRecovery=Đăng nhập để khôi phục các gói đã mua
     CurrentGoogleAcc=Tài khoản: %email%
     RecoveredPurchases=Các gói đã khôi phục:
-    PurchaseAddId=Thêm ID
+    PurchaseAddId=Thêm ID giao dịch
     PurchaseAlreadyRegistered=ID giao dịch này đã được đăng ký trước đó.
     OrderNotFound=Không tìm thấy đơn hàng, hãy đảm bảo ID chính xác.
 
@@ -305,23 +299,23 @@
     RestoredSuccessfully=Hãy tận hưởng trò chơi nhé.
 
 [Sharing]
-    Share_Button=Chia sẻ bản thiết kế
-    Upload_Blueprint_PC=Tải bản thiết kế lên
-    Download_Blueprint_PC=Tải bản thiết kế về
+    Share_Button=Chia sẻ Bản thiết kế
+    Upload_Blueprint_PC=Tải Bản thiết kế lên
+    Download_Blueprint_PC=Tải Bản thiết kế về
     Share_Button_PC=Chia sẻ
     Download_Confirm=Tải về
-    URL_Field_TextBox=Đường dẫn (URL) bản thiết kế
+    URL_Field_TextBox=Đường dẫn (URL) Bản thiết kế
     Empty_Upload=Không thể tải lên một bản thiết kế trống
     Uploading_Message=Đang tải lên...
     Upload_Fail=Tải lên bản thiết kế thất bại
     Copied_URL_To_Clipboard=Đã sao chép đường dẫn bản thiết kế vào bộ nhớ tạm
     Sharing_Enter_Prompt=Chọn thế giới mà bạn muốn tải bản thiết kế này vào
     Must_Create_World_Download_BP=Bạn phải tạo một thế giới trước để tải bản thiết kế về
-    Confirm_Download_Button=Tải bản thiết kế
+    Confirm_Download_Button=Tải Bản thiết kế
     Downloading_Message=Đang tải về...
     Download_Fail=Tải bản thiết kế về thất bại
-    URL_Invalid=Đường dẫn bản thiết kế không hợp lệ
-    Sharing_Connect_Fail=Không thể kết nối
+    URL_Invalid=Đường dẫn Bản thiết kế không hợp lệ
+    Sharing_Connect_Fail=Không thể kết nối đến máy chủ chia sẻ
 
 [Settings Mobile]
     Music_Name=Nhạc nền
@@ -329,10 +323,10 @@
     Screen_Rotation_Name=Xoay màn hình
     FPS_Name=Tốc độ khung hình (FPS)
     Language_Name=Ngôn ngữ
-    Menu_Scale=Tỷ lệ giao diện
-    Menu_Opacity=Độ mờ giao diện
-    Shakes_Name=Rung màn hình
-    Orbit_Line_Count=Số lượng đường quỹ đạo
+    Menu_Scale=Tỷ lệ Giao diện
+    Menu_Opacity=Độ mờ Giao diện
+    Shakes_Name=Rung Camera
+    Orbit_Line_Count=Số lượng Đường quỹ đạo
     Anti_Aliasing=Khử răng cưa
     Set_Save_Location=Đặt thư mục lưu dữ liệu
     Change_Save_Location=Thay đổi thư mục lưu dữ liệu
@@ -342,19 +336,19 @@
     Current_Save_Location=%path%
 
 [Cheats]
-    Infinite_Build_Area_Name=Khu vực xây dựng vô hạn
-    Part_Clipping_Name=Lắp linh kiện đè nhau (clipping)
-    Infinite_Fuel_Name=Vô hạn nhiên liệu
-    No_Atmospheric_Drag_Name=Không có lực cản khí quyển
-    No_Collision_Damage_Name=Không có sát thương va chạm
-    No_Gravity_Name=Không có trọng lực
-    No_Heat_Damage_Name=Không có sát thương do nhiệt
-    No_Burn_Marks_Name=Không có vết cháy xém
-    Refill_Fuel_Tanks=Nạp đầy bình nhiên liệu
+    Infinite_Build_Area_Name=Khu vực Xây dựng Vô hạn
+    Part_Clipping_Name=Lắp linh kiện đè nhau (Clipping)
+    Infinite_Fuel_Name=Vô hạn Nhiên liệu
+    No_Atmospheric_Drag_Name=Không có Lực cản Khí quyển
+    No_Collision_Damage_Name=Không có Sát thương va chạm
+    No_Gravity_Name=Không có Trọng lực
+    No_Heat_Damage_Name=Không có Sát thương do Nhiệt
+    No_Burn_Marks_Name=Không có Vết cháy xém
+    Refill_Fuel_Tanks=Nạp đầy các Bình nhiên liệu
     Refilled_Tanks=Đã nạp đầy tất cả các bình nhiên liệu
-    Unlock_Cheats_Button=Mở khóa tính năng gian lận
+    Unlock_Cheats_Button=Mở khóa Tính năng Gian lận
 
-    Unlock_Cheats_Warning=Bật gian lận sẽ chuyển thế giới thử thách của bạn thành thế giới sáng tạo.
+    Unlock_Cheats_Warning=Bật gian lận sẽ chuyển thế giới Thử thách của bạn thành thế giới Sáng tạo.
     Unlock_Cheats_Warning=
     Unlock_Cheats_Warning=Thay đổi này là vĩnh viễn và không thể hoàn tác.
     Unlock_Cheats_Warning=
@@ -374,7 +368,7 @@
     Tut_Retry=Chỉnh sửa lại tên lửa
     Tut_Retry=và thử phóng lại chứ?
 
-    Tut_Ignition=Kích nổ / đánh lửa!
+    Tut_Ignition=Kích nổ / Đánh lửa!
 
     Tut_Throttle=Điều chỉnh cần ga
     Tut_Throttle=lên 100%
@@ -385,7 +379,7 @@
     Tut_Symmetry_Mode=Chế độ đối xứng
     Tut_Area_Select=Giữ, sau đó kéo để chọn một vùng
 
-    Tut_Stages=Các tầng (stages) cho phép bạn kích hoạt
+    Tut_Stages=Các tầng (Stages) cho phép bạn kích hoạt
     Tut_Stages=nhiều linh kiện cùng một lúc
 
     Tut_Parachute=Sử dụng dù để giúp phi hành đoàn
@@ -409,12 +403,12 @@
 
 [Hub]
     Funds_Text=Ngân sách: %funds%
-    Go_To_Space_Center=Trung tâm vũ trụ
-    Exit_To_Space_Center=Về trung tâm vũ trụ
-    Research_And_Development=Nghiên cứu & phát triển %complete%/%total%
+    Go_To_Space_Center=Trung tâm Vũ trụ
+    Exit_To_Space_Center=Rời ra Trung tâm Vũ trụ
+    Research_And_Development=Nghiên cứu & Phát triển %complete%/%total%
     Challenges_Info=Thử thách: %complete%/%total%
     Challenges_Button=Thử thách %complete%/%total%
-    Challenges_Title=Danh sách thử thách:
+    Challenges_Title=Danh sách Thử thách:
 
     Challenges_Completed=<size=55>Đã hoàn thành thử thách:</size>
     Challenges_Completed=%challenge%
@@ -428,7 +422,7 @@
     Insufficient_Funds=Không đủ ngân sách
 
 [Build]
-    Build_New_Rocket=Chế tạo tên lửa mới
+    Build_New_Rocket=Chế tạo Tên lửa Mới
     New=Mới
     Expand_Last_Rocket=Tiếp tục lắp ráp
 
@@ -444,7 +438,7 @@
     Interior_View_Off=Nhìn bên trong: Tắt
 
     Launch_Button=Phóng
-    Move_Rocket_Button=Di chuyển tên lửa
+    Move_Rocket_Button=Di chuyển Tên lửa
 
 # Clear build area
     Clear_Warning=Xóa sạch khu vực lắp ráp?
@@ -462,25 +456,25 @@
     Too_Heavy=Khối lượng: %mass%
     Too_Heavy=Lực đẩy: %thrust%
 
-    Launch_Anyway_Button=Vẫn cứ phóng
+    Launch_Anyway_Button=Vẫn cứ Phóng
 
     Launch_Horizontally_Ask=Phóng theo phương ngang?
-    Launch_Horizontally_Confirm=Phóng ngang
-    Launch_Vertically_Confirm=Phóng dọc
+    Launch_Horizontally_Confirm=Phóng Ngang
+    Launch_Vertically_Confirm=Phóng Dọc
 
 # Example rockets
-    Example_Rockets_OpenMenu=Tên lửa mẫu
-    Basic_Rocket=Tên lửa cơ bản
-    Stages=Tên lửa hai tầng
-    Ideal_Stages=Tên lửa ba tầng
+    Example_Rockets_OpenMenu=Tên lửa Mẫu
+    Basic_Rocket=Tên lửa Cơ bản
+    Stages=Tên lửa Hai tầng
+    Ideal_Stages=Tên lửa Ba tầng
     Lander=Tàu đổ bộ Mặt Trăng
 
 [Map]
     Toggle_Map_Button=Bản đồ
     Escape=Thoát khỏi trọng lực
-    Encounter=Giao cắt quỹ đạo
-    Rendezvous=Điểm hẹn gặp gỡ
-    Transfer=Cửa sổ chuyển quỹ đạo
+    Encounter=Giao cắt Quỹ đạo
+    Rendezvous=Điểm hẹn Gặp gỡ
+    Transfer=Cửa sổ Chuyển quỹ đạo
 
 [Game]
     Throttle_On=Bật
@@ -490,41 +484,41 @@
     Rocket_Has_No_RCS=Tên lửa của bạn không có động cơ đẩy điều hướng RCS
 
 # Game supports screen rotation, we split into 2 lines in vertical mode
-    Height_Terrain_Vertical=Độ cao (địa hình):
-    Height_Terrain_Vertical=`
+    Height_Terrain_Vertical=Độ cao (Địa hình):
+    Height_Terrain_Vertical=
     Height_Terrain_Vertical=%height%
 
     Height_Vertical=Độ cao:
-    Height_Vertical=`
+    Height_Vertical=
     Height_Vertical=%height%
 
     Velocity_Vertical=Vận tốc:
-    Velocity_Vertical=`
+    Velocity_Vertical=
     Velocity_Vertical=%speed%
 
-    Velocity_Relative_Vertical=Vận tốc (tương đối):
-    Velocity_Relative_Vertical=`
+    Velocity_Relative_Vertical=Vận tốc (Tương đối):
+    Velocity_Relative_Vertical=
     Velocity_Relative_Vertical=%speed%
 
-    Distance_Relative_Vertical=Khoảng cách (tương đối):
-    Distance_Relative_Vertical=`
+    Distance_Relative_Vertical=Khoảng cách (Tương đối):
+    Distance_Relative_Vertical=
     Distance_Relative_Vertical=%distance%
 
-    Angle_Vertical=Góc nghiêng:
-    Angle_Vertical=`
+    Angle_Vertical=Góc nghiên:
+    Angle_Vertical=
     Angle_Vertical=%angle% / %targetAngle%
 
-    Height_Terrain_Horizontal=Độ cao (địa hình): %height%
+    Height_Terrain_Horizontal=Độ cao (Địa hình): %height%
     Height_Horizontal=Độ cao: %height%
     Velocity_Horizontal=Vận tốc: %speed%
-    Velocity_Relative_Horizontal=Vận tốc (tương đối): %speed%
-    Distance_Relative_Horizontal=Khoảng cách (tương đối): %distance%
-    Angle_Horizontal=Góc nghiêng: %angle% / %targetAngle%
+    Velocity_Relative_Horizontal=Vận tốc (Tương đối): %speed%
+    Distance_Relative_Horizontal=Khoảng cách (Tương đối): %distance%
+    Angle_Horizontal=Góc nghiên: %angle% / %targetAngle%
 
-    Relative_Velocity_Arrow=Vận tốc tương đối
+    Relative_Velocity_Arrow=Vận tốc Tương đối
     Relative_Velocity_Arrow=%velocity%
 
-    Side_Velocity_Arrow=Vận tốc ngang
+    Side_Velocity_Arrow=Vận tốc Ngang
     Side_Velocity_Arrow=%velocity%
 
     Forward_Velocity_Arrow=Khoảng cách
@@ -581,11 +575,11 @@
 [End mission menu]
     Recover_Rocket=Thu hồi
     Destroy_Rocket=Phá hủy
-    Debris_Recover=Thu hồi mảnh vỡ
-    Debris_Destroy=Phá hủy mảnh vỡ
+    Debris_Recover=Thu hồi Mảnh vỡ
+    Debris_Destroy=Phá hủy Mảnh vỡ
     Debris_Recover_Title=Thu hồi mảnh vỡ tên lửa?
     Debris_Destroy_Title=Phá hủy mảnh vỡ tên lửa?
-    View_Mission_Log=Xem nhật ký chuyến bay
+    View_Mission_Log=Xem Nhật ký Chuyến bay
 
 # Restart menu
     Restart_Mission_To_Launch_Warning=CẢNH BÁO:
@@ -594,14 +588,14 @@
     Restart_Mission_To_Build_Warning=CẢNH BÁO:
     Restart_Mission_To_Build_Warning=Hành động này sẽ xóa bỏ mọi tiến trình kể từ lần phóng cuối
 
-    Restart_Mission_To_Launch=Quay lại lúc phóng
-    Restart_Mission_To_Build=Quay lại lúc chế tạo
-    Revert_30_Secs=Quay lại 30 giây trước
-    Revert_3_Min=Quay lại 3 phút trước
+    Restart_Mission_To_Launch=Quay lại Lúc Phóng
+    Restart_Mission_To_Build=Quay lại Lúc Chế tạo
+    Revert_30_Secs=Quay lại 30 Giây trước
+    Revert_3_Min=Quay lại 3 Phút trước
 
 # End mission menu
-    End_Challenges_Title=Thử thách đã hoàn thành:
-    End_Logs_Title=Nhật ký nhiệm vụ:
+    End_Challenges_Title=Thử thách đã Hoàn thành:
+    End_Logs_Title=Nhật ký Nhiệm vụ:
     Continue_To_Log=Tiếp tục
     Back_To_Challenges=Quay lại
 
@@ -610,16 +604,16 @@
     Clear_Debris_Warning=
     Clear_Debris_Warning=Thao tác này sẽ xóa toàn bộ các phần tên lửa không thể điều khiển
 
-    Clear_Debris_Confirm=Dọn rác vũ trụ
+    Clear_Debris_Confirm=Dọn rác Vũ trụ
 
 # Select menu
-    Navigate_To=Đặt lộ trình tới
-    End_Navigation=Hủy điều hướng
-    Focus=Tập trung nhìn
-    Unfocus=Hủy tập trung
+    Navigate_To=Đặt Lộ trình Tới
+    End_Navigation=Hủy Điều hướng
+    Focus=Tập trung Nhìn
+    Unfocus=Hủy Tập trung
     Track=Theo dõi
-    Stop_Tracking=Ngừng theo dõi
-    Switch_To=Chuyển sang điều khiển
+    Stop_Tracking=Ngừng Theo dõi
+    Switch_To=Chuyển sang Điều khiển
 
 [Rocket]
     Default_Rocket_Name=Tên lửa
@@ -639,7 +633,7 @@
     Timewarp_To_Button=Tua nhanh đến đây
 
 [Units]
-    Thrust_To_Weight_Ratio=Tỷ lệ lực đẩy / khối lượng: %value%
+    Thrust_To_Weight_Ratio=Tỷ lệ Lực đẩy / Khối lượng: %value%
     Mass=Khối lượng: %value%t
     Density=Mật độ: %value%
     Thrust=Lực đẩy: %value%t
@@ -668,17 +662,17 @@
 
 [Part Categories]
     Basic_Parts=Cơ bản
-    Six_Wide_Parts=Rộng 6 ô
-    Eight_Wide_Parts=Rộng 8 ô
-    Ten_Wide_Parts=10 ô
-    Twelve_Wide_Parts=12 ô
+    Six_Wide_Parts=Rộng 6 Ô
+    Eight_Wide_Parts=Rộng 8 Ô
+    Ten_Wide_Parts=10 Ô
+    Twelve_Wide_Parts=12 Ô
     Engine_Parts=Động cơ
     Aerodynamics_Parts=Khí động học
     Fairings_Parts=Vỏ bọc tên lửa
     Structural_Parts=Khung cấu trúc
     Other_Parts=Linh kiện khác
     Redstone_Atlas=Redstone Atlas
-    Boosters=Động cơ đẩy phụ (boosters)
+    Boosters=Động cơ đẩy phụ (Boosters)
 
 [Part Names]
     Capsule_Name=Khoang phi hành đoàn
@@ -703,7 +697,7 @@
     Landing_Leg_Name=Chân hạ cánh
     Aerodynamic_Nose_Cone_Name=Chóp mũi khí động học
     Aerodynamic_Fuselage_Name=Thân vỏ khí động học
-    Fairing_Name=Vỏ bọc hàng (fairing)
+    Fairing_Name=Vỏ bọc hàng (Fairing)
     Rover_Wheel_Name=Bánh xe tự hành
     Docking_Port_Name=Cổng kết nối quỹ đạo
     Solar_Panel_Name=Tấm pin năng lượng mặt trời
@@ -765,7 +759,7 @@
 
     Engine_Module_State=Động cơ đang %state%
     Engine_On_Label=Khởi động động cơ
-    Gimbal_On_Label=Bật xoay hướng luồng đẩy (gimbal)
+    Gimbal_On_Label=Bật xoay hướng luồng đẩy (Gimbal)
 
     Booster_On=Động cơ đẩy phụ: Bật
     Booster_Off=Động cơ đẩy phụ: Tắt
@@ -797,23 +791,23 @@
 [Part Pick Categories]
 # Part Categories in Pick Part Menu
     Part_Pick_Category_Aero=Khí động học
-    Part_Pick_Category_Parachutes=Hệ thống dù
-    Part_Pick_Category_Engines=Hệ thống động cơ
+    Part_Pick_Category_Parachutes=Hệ thống Dù
+    Part_Pick_Category_Engines=Hệ thống Động cơ
     Part_Pick_Category_Structural=Khung kết cấu
     Part_Pick_Category_Utility=Tiện ích
-    Part_Pick_Category_Control=Bộ điều khiển
-    Part_Pick_Category_Landing=Bộ hạ cánh
-    Part_Pick_Category_Electricity=Hệ thống điện
+    Part_Pick_Category_Control=Bộ Điều khiển
+    Part_Pick_Category_Landing=Bộ Hạ cánh
+    Part_Pick_Category_Electricity=Hệ thống Điện
 
     Part_Pick_Category_Fuel=Bình
-    Part_Pick_Category_Fuel=nhiên liệu
+    Part_Pick_Category_Fuel=Nhiên liệu
 
     Part_Pick_Category_Fairings=Vỏ bọc hàng
     Part_Pick_Category_Wheels=Bánh xe
     Part_Pick_Category_Docking=Khớp nối
 
     Part_Pick_Category_Heat_Protection=Chắn
-    Part_Pick_Category_Heat_Protection=nhiệt
+    Part_Pick_Category_Heat_Protection=Nhiệt
 
     Part_Pick_Category_Staging=Tách tầng
     Part_Pick_Category_Mounts=Đế gắn
@@ -831,9 +825,9 @@
     Moon{0}=Mặt Trăng
     Moon{1}=Mặt Trăng
     Moon{2}=Mặt Trăng
-    Near_Earth_Asteroid{0}=Thiên thạch bị bắt giữ
-    Near_Earth_Asteroid{1}=Thiên thạch bị bắt giữ
-    Near_Earth_Asteroid{2}=Thiên thạch bị bắt giữ
+    Near_Earth_Asteroid{0}=Thiên thạch Bị bắt giữ
+    Near_Earth_Asteroid{1}=Thiên thạch Bị bắt giữ
+    Near_Earth_Asteroid{2}=Thiên thạch Bị bắt giữ
     Mars{0}=Sao Hỏa
     Phobos{0}=Phobos
     Deimos{0}=Deimos
@@ -1042,28 +1036,28 @@
     Reach10km_Title=Đạt độ cao 10km
     Reach10km=Chinh phục độ cao 10km và hạ cánh trở lại an toàn
 
-    ReachSpace_Title=Vươn tới vũ trụ
+    ReachSpace_Title=Vươn tới Vũ trụ
     ReachSpace=Bay tới độ cao %height%, vượt qua thử thách trở lại khí quyển và hạ cánh an toàn
 
     Land100kmDownrange_Title=Hạ cánh cách bệ phóng 100km
     Land100kmDownrange=Hạ cánh tại địa điểm cách xa bệ phóng ít nhất 100km
 
-    ReachLowEarthOrbit_Title=Đạt quỹ đạo thấp của Trái Đất
+    ReachLowEarthOrbit_Title=Đạt Quỹ đạo Thấp của Trái Đất
     ReachLowEarthOrbit=Đưa tàu vào quỹ đạo thấp của Trái Đất, sau đó hạ cánh trở về an toàn
 
-    ReachHighEarthOrbit_Title=Đạt quỹ đạo cao của Trái Đất
+    ReachHighEarthOrbit_Title=Đạt Quỹ đạo Cao của Trái Đất
     ReachHighEarthOrbit=Đưa tàu vào quỹ đạo cao của Trái Đất, sau đó hạ cánh trở về an toàn
 
     MoonOrbit_Title=Quỹ đạo Mặt Trăng
     MoonOrbit=Đi vào quỹ đạo thấp của Mặt Trăng, sau đó bay trở lại Trái Đất an toàn
 
-    MoonTour_Title=Chuyến du ngoạn Mặt Trăng
+    MoonTour_Title=Chuyến Du ngoạn Mặt Trăng
     MoonTour=Hạ cánh xuống 3 địa danh khác nhau trên Mặt Trăng rồi trở về Trái Đất an toàn
 
-    AsteroidImpact_Title=Đâm sầm thiên thạch
-    AsteroidImpact=Va chạm trực diện vào bề mặt thiên thạch bị bắt giữ với vận tốc trên 200 m/s
+    AsteroidImpact_Title=Đâm sầm Thiên thạch
+    AsteroidImpact=Vao chạm trực diện vào bề mặt Thiên thạch Bị bắt giữ với vận tốc trên 200 m/s
 
-    MarsGrandTour_Title=Đại hành trình Sao Hỏa
+    MarsGrandTour_Title=Đại Hành trình Sao Hỏa
     MarsGrandTour=Hạ cánh thành công xuống Sao Hỏa, Phobos và Deimos trong cùng một chuyến bay, sau đó hồi hương an toàn
 
     VenusLanding_Title=Đổ bộ Sao Kim
@@ -1083,20 +1077,20 @@
     Reached_Height=Đã đạt tới độ cao %height%
 
 [Mod Loader]
-    Mods_Button=Danh sách mod
-    Mods_Still_Loading=Các bản mod đang được tải, vui lòng chờ...
+    Mods_Button=Danh sách Mod
+    Mods_Still_Loading=Các bản Mod đang được tải, vui lòng chờ...
     ModType_Label=Phân loại: %type%
     Version_Label=Phiên bản: %version%
-    CodeMod_Name=Mod mã nguồn (Code Mod)
-    PartAssetPack_Name=Gói linh kiện bên ngoài (Part Pack)
-    TexturePack_Name=Gói kết cấu hình ảnh (Texture Pack)
-    SolarSystemPack_Name=Gói hệ mặt trời tùy biến
-    CodeModNotAllowedOnMobile=CHƯA HỖ TRỢ: Do các giới hạn bảo mật thực thi mã nguồn trên thiết bị di động, mod có chứa code tùy biến chưa thể hoạt động trên điện thoại
+    CodeMod_Name=Mod Mã nguồn (Code Mod)
+    PartAssetPack_Name=Gói Linh kiện bên ngoài (Part Pack)
+    TexturePack_Name=Gói Kết cấu Hình ảnh (Texture Pack)
+    SolarSystemPack_Name=Gói Hệ Mặt Trời tùy biến
+    CodeModNotAllowedOnMobile=CHƯA HỖ TRỢ: Do các giới hạn bảo mật thực thi mã nguồn trên thiết bị di động, Mod có chứa code tùy biến chưa thể hoạt động trên điện thoại
     Author_Label=Tác giả: %name%
-    Changes_Warning=Bạn có muốn khởi động lại trò chơi ngay bây giờ để các thay đổi của mod có hiệu lực không?
+    Changes_Warning=Bạn có muốn khởi động lại trò chơi ngay bây giờ để các thay đổi của Mod có hiệu lực không?
     Relaunch=Khởi động lại
 
-    Set_ModsFolder_Question=Khi chọn thư mục chứa mod, toàn bộ dữ liệu lưu game (saves) cũ cũng sẽ tự động chuyển sang thư mục mới này.
+    Set_ModsFolder_Question=Khi chọn thư mục chứa Mod, toàn bộ dữ liệu lưu game (Saves) cũ cũng sẽ tự động chuyển sang thư mục mới này.
     Set_ModsFolder_Question=Dữ liệu của bạn sẽ được sao chép tự động qua đó.
 
     Lost_Access_Mods=Đã mất quyền truy cập vào thư mục lưu trữ.
