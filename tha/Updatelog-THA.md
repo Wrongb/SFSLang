@@ -1,4 +1,4 @@
-# Spaceflight Simulator - Thai Localization Update Log
+Thai Localization Update Log
 
 **Version:** Beta  
 **Translator:** Pongb  
