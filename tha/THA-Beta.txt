@@ -755,7 +755,7 @@
 
 [Modules]
     Torque_Module_Torque=แรงบิดควบคุม: %value%kN
-    Independence_Force=แรงแยกสเตจ: %value%kN
+    Separation_Force=แรงแยกสเตจ: %value%kN
     Magnet_Force=แรงแม่เหล็ก: %value%kN
 
     Max_Heat_Tolerance=ทนความร้อนสูงสุด: %temperature%
