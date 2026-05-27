@@ -1,6 +1,13 @@
 # SFSLang
 **My small project on SFS - Spaceflight Simulator**
 
+- [Tiếng Việt](#-tiếng-việt)
+- [English](#-english)
+
+---
+
+# 🇻🇳 Tiếng Việt
+
 ## [28/5/2026] Một số vấn đề nhỏ
 
 1. Cấu trúc file ngôn ngữ của mình được dựa trên file `Example.txt` trên iOS. Vì vậy nếu bạn cài file ngôn ngữ này trên Android, có thể game sẽ hiện thông báo như:
@@ -13,6 +20,10 @@
 2. File ngôn ngữ tiếng Thái hiện tại vẫn đang ở giai đoạn `Beta`, nên có thể vẫn còn lỗi hoặc một vài chỗ mình để sót. Nếu phát hiện lỗi, hãy báo lại giúp mình để mình có thể cải thiện bản dịch nhanh nhất có thể.
 
 3. Và nhớ cho mình xin 1 ⭐ repo nha 😘
+
+---
+
+# English
 
 ## [28/5/2026] Some Important Notes
 
