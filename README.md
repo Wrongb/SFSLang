@@ -19,7 +19,7 @@
 
 2. File ngôn ngữ tiếng Thái hiện tại vẫn đang ở giai đoạn `Beta`, nên có thể vẫn còn lỗi hoặc một vài chỗ mình để sót. Nếu phát hiện lỗi, hãy báo lại giúp mình để mình có thể cải thiện bản dịch nhanh nhất có thể.
 
-3. Và nhớ cho mình xin 1 ⭐ repo nha 😘
+3. File tiếng Thái trên iOS hiện đang bị lỗi text, bản vá sẽ sớm được phát hành.
 
 ---
 
@@ -36,4 +36,4 @@
 
 2. The Thai language file is currently still in `Beta`, so there may still be bugs, untranslated lines, or overlooked mistakes. If you find any issues, please report them so I can improve the translation as quickly as possible.
 
-3. And please consider giving the repo a ⭐ 😘
+3. The Thai language file on iOS is currently experiencing text issues. A patch will be released soon to fix them.
